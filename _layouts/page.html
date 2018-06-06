@@ -1,16 +1,21 @@
----
-layout: default
----
-<main class="content" role="main">
-  <article class="post">
-    <div class="post-meta">
-      <h1 class="post-title">{{ page.title }}</h1>
-    </div>
-    <section class="post-content">
-      <a name="topofpage"></a>
-      {{content}}
-    </section>
-  </article>
-</main>
-
-{% include footer.html %}
+<html ⚡ lang="en">
+  {% include head-page.html %}
+  <body>
+      {% if site.google.tagmanager_id == true %}
+        {% include JB/tag-manager-body.html %}
+      {% endif %}
+         
+      
+        
+  
+      {{ content }}
+      
+        {% include footer.html %}    
+  
+      
+        
+      {% if site.analytics_id %}
+          {% include analytics.html %}
+      {% endif %}
+  </body>
+</html>
