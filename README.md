@@ -278,12 +278,13 @@ MIT. See LICENSE file in repo.
 
 ## To do
 
-- [x] Edit condition into /_includes/JB/heading.html
-- [x] Continue Perfectionate the /_includes/blocks/ahead.html
-- [x] Create the 3 column layout validated in amp for the /blog.html layout
-- [x] Continue the single post layout with two columns 
+- [ ] Copy AMP scripts into /assets/js folder and merge that all (create 2/3 file in base of the dffrent headers of the pages layout to support AMPyoutube and AMPinstagram)
+- [ ]
+- [ ] Start work in the blog posts part to integrate a well layout
+
+### Olds todo from dopit.github.io
+
 - [ ] Continue edit css typography single post layout with two columns 
-- [x] Put disqus into posts 
 - [ ] Integrate mailchimp
 - [ ] Make a sign up form nacked for mailchimp
 - [ ] Integrate addthis
@@ -291,3 +292,8 @@ MIT. See LICENSE file in repo.
 - [ ] Work with the menu
 - [ ] Continue edit /includes/blocks/sharing.html by pass params like `{% include blocks/test.html subtitle=page.subtitle `
 - [ ] Integrate a modal script (maybe a timer modal or something)
+- [x] Edit condition into /_includes/JB/heading.html
+- [x] Continue Perfectionate the /_includes/blocks/ahead.html
+- [x] Create the 3 column layout validated in amp for the /blog.html layout
+- [x] Continue the single post layout with two columns 
+- [x] Put disqus into posts
