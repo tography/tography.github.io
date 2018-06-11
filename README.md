@@ -278,6 +278,7 @@ MIT. See LICENSE file in repo.
 
 ## To do
 
+- [ ] Edit the social share image (the top img: and image: option) as a context pic
 - [ ] Copy AMP scripts into /assets/js folder and merge that all (create 2/3 file in base of the dffrent headers of the pages layout to support AMPyoutube and AMPinstagram)
 - [ ]
 - [ ] Start work in the blog posts part to integrate a well layout
