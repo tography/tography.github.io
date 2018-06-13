@@ -278,9 +278,9 @@ MIT. See LICENSE file in repo.
 
 ## To do
 
-- [ ] Portrait photography page copy the text https://tography.github.io/portrait/ (waiting for Alla pictures to complete pics)
 - [ ] Drone photograpy page https://tography.github.io/drone/ (the copy the texts)
-- [ ] Product photograpy page https://tography.github.io/product/
+- [ ] Portrait photography page copy the text https://tography.github.io/portrait/ (waiting for Alla pictures to complete pics)
+- [ ] Product photograpy page https://tography.github.io/product/ (All things)
 - [ ] Edit the social share image (the top img: and image: option) as a context pic
 
 - [ ] Copy and merge AMP scripts into /assets/js folder and merge that all (create 2/3 file in base of the dffrent headers of the pages layout to support AMPyoutube and AMPinstagram)
