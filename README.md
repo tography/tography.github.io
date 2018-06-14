@@ -290,10 +290,12 @@ MIT. See LICENSE file in repo.
 - [Wedding](https://www.nikonschool.it/fotogiornalismo-reportage-matrimonio/fotografia-matrimonio.php)
 - [Creative life lessons](https://www.creativelive.com/)
 
+--------------------------------------------------------
+
 ## To do
 
 - [ ] Drone photograpy page https://tography.github.io/drone/ (the copy the texts)
-- [ ] Portrait photography page copy the text https://tography.github.io/portrait/ (waiting for Alla pictures to complete pics)
+- [x] Portrait photography page copy the text https://tography.github.io/portrait/ (waiting for Alla pictures to complete pics)
 - [ ] Product photograpy page https://tography.github.io/product/ (All things)
 - [ ] Edit the social share image (the top img: and image: option) as a context pic
 
