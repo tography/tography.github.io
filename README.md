@@ -262,9 +262,13 @@ MIT. See LICENSE file in repo.
 
 # Useful links
 
-[compatible css frameworks](https://softwarerecs.stackexchange.com/questions/46199/which-css-framework-is-compatible-with-amp)
+[Ampstart themes](https://ampstart.com/templates) the theme used
 
-[AMP webdite builed](https://mobirise.com/amp-website-builder/)
+[Basscss css framework](http://basscss.com/) used into DopIt
+
+[Usefull resource for Basscss](https://codepen.io/jxnblk/post/12-css-layout-solutions-using-basscsss-flex-object)
+
+[Basic themes in Basscss](http://basscss.com/themes/)
 
 [AMP blog](http://ampexamples.com/)
 
@@ -274,7 +278,10 @@ MIT. See LICENSE file in repo.
 
 [Test AMP pages](https://search.google.com/test/amp)
 
-[Basscss css framework](http://basscss.com/) used into DopIt
+[compatible css frameworks](https://softwarerecs.stackexchange.com/questions/46199/which-css-framework-is-compatible-with-amp)
+
+[AMP webdite builed](https://mobirise.com/amp-website-builder/)
+
 
 ## To do
 
