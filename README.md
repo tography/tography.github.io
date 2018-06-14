@@ -316,3 +316,27 @@ MIT. See LICENSE file in repo.
 - [x] Create the 3 column layout validated in amp for the /blog.html layout
 - [x] Continue the single post layout with two columns 
 - [x] Put disqus into posts
+
+
+
+
+# About page
+
+## Linee guida
+
+Immagini di me e di me mentre lavoro a pc di me mentre scatto una foto
+in fondo al copy aggiungere la mia firma e dei testimonial sarebbero il massimo (adobe stock, guru shots, eyeem)
+
+## Le immagini
+
+- In una foto il mio volto x3 volte, con camicia bianca e cravatta nera: non vedo, espressione stupita (bocca aperta mani davanti gli occhi) - non sento (mani a coprire le orecchie, sorriso e sguardo fisso alla camera) - non parlo (mano alla bocca, sguardo verso l'alto) - settings luce laterale diffusa a 45° meglio con pannello e anche luce dal dietro, higth contrasts, vividezza, clarity e forse luminace
+
+## Il copy
+
+Non ho mai fatto un incontro professionale di boxe, ne ho mai partecipato ad un Ironman. Non sono nemmeno stato nello spazio. Ma ho viaggiato per molti posti lontani, creato molte immagini fisse e in movimento per me ed gli altri. Ho scelto, tra gli obiettivi della mia vita, quello di far fluire libera la mia creatività in tutto quello che faccio.
+
+In un posto isolato come un'isola deserta o in Antartide, impazzirei senza la fotografia, il videomaking, senza far volare il mio drone, senza la possibilità di leggere e senza il mio inseparabile amico 'Papi'. Storytelling, innovazione, creatività e voodo visivo - a prescindere dal mezzo di comunicazione, tutto questo, fa battere forte il mio cuore e mi rende entusiasta nel poter fruirne, la mia anima canta di gioia quando si trova in contesti simili. 
+
+Amo divertirmi, far divertire e conoscere nuove persone, ma solo quelle originali, creative ed empatiche, cioè quelle che possano arricchire positivamente le mie conoscenze e la mia vita.
+
+Ero trasparente molto prima che fosse così alla moda, e credo profondamente nel lavoro di squadra, nella comunità e nella collaborazione. Diventiamo amici. Meglio ancora, partiamo per un'avventura insieme! Un'avventura di business, per intenderci...
