@@ -288,7 +288,7 @@ MIT. See LICENSE file in repo.
 ### From Nikon
 - [Glamour course](https://www.nikonschool.it/corso-foto-glamour/index.php)
 - [Wedding](https://www.nikonschool.it/fotogiornalismo-reportage-matrimonio/fotografia-matrimonio.php)
-- []()
+- [Creative life lessons](https://www.creativelive.com/)
 
 ## To do
 
