@@ -7,8 +7,6 @@ img: assets/images/activity/discover-electronic-scene.jpg
 image: assets/images/activity/discover-electronic-scene.jpg
 custom-head:
 type: 'book'
-latitude: 45.817374
-longitude: 8.826044
 ---
 
 <main id="content" class="gallery-base-content fit" role="main">
@@ -241,7 +239,7 @@ longitude: 8.826044
           </div>
         </div>
         <div class="gallery-component-map-frame">
-          <amp-iframe height="300" layout="fixed-height" sandbox="allow-scripts allow-top-navigation" scrolling="no" frameborder="0" noloading="" src="https://ampstart-iframes.firebaseapp.com/templates/gallery/3p/gallery-map.html?marker={{page.latitude}},{{page.longitude}}"></amp-iframe>
+          <amp-iframe height="300" layout="fixed-height" sandbox="allow-scripts allow-top-navigation" scrolling="no" frameborder="0" noloading="" src="https://ampstart-iframes.firebaseapp.com/templates/gallery/3p/gallery-map.html?marker={{site.location.latitude}},{{site.location.longitude}}"></amp-iframe>
         </div>
       </section>
     </main>
