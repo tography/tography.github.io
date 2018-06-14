@@ -297,6 +297,7 @@ MIT. See LICENSE file in repo.
 
 - [x] Drone photograpy page https://tography.github.io/drone/ (the copy the texts)
 - [x] Portrait photography page copy the text https://tography.github.io/portrait/ (waiting for Alla pictures to complete pics)
+- [ ] Add all photos to Urban photography
 - [ ] Product photograpy page https://tography.github.io/product/ (All things)
 - [ ] Edit the social share image (the top img: and image: option) as a context pic
 
