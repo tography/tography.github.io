@@ -283,6 +283,13 @@ MIT. See LICENSE file in repo.
 [AMP webdite builed](https://mobirise.com/amp-website-builder/)
 
 
+## Photography resources/guides
+
+### From Nikon
+- [Glamour course](https://www.nikonschool.it/corso-foto-glamour/index.php)
+- [Wedding](https://www.nikonschool.it/fotogiornalismo-reportage-matrimonio/fotografia-matrimonio.php)
+- []()
+
 ## To do
 
 - [ ] Drone photograpy page https://tography.github.io/drone/ (the copy the texts)
