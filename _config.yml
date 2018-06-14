@@ -43,6 +43,10 @@ author :
   google: https://plus.google.com/u/0/b/114870349902392641766/105909498949786982602
   feedburner :
 
+location:
+  latitude: 45.817374
+  longitude: 8.826044
+
 # WHEN YOU WANT TO HOST WITH THE COMBINATION OF GOOLE TAG MANAGER, ANALYTICS AND OPTIMIZE 
 # (tracking_id, optimize_id, tagmanager_id ARE REQUIRED FIELDS)
 google :
