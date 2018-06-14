@@ -1,4 +1,4 @@
-# Amplify for Jekyll
+# Tography for Jekyll
 
 *A Jekyll html theme in the vague style of Medium.com built using Google AMP*
 
@@ -289,12 +289,13 @@ MIT. See LICENSE file in repo.
 - [Glamour course](https://www.nikonschool.it/corso-foto-glamour/index.php)
 - [Wedding](https://www.nikonschool.it/fotogiornalismo-reportage-matrimonio/fotografia-matrimonio.php)
 - [Creative life lessons](https://www.creativelive.com/)
+- [Creative life creator](https://www.chasejarvis.com/photos/)
 
 --------------------------------------------------------
 
 ## To do
 
-- [ ] Drone photograpy page https://tography.github.io/drone/ (the copy the texts)
+- [x] Drone photograpy page https://tography.github.io/drone/ (the copy the texts)
 - [x] Portrait photography page copy the text https://tography.github.io/portrait/ (waiting for Alla pictures to complete pics)
 - [ ] Product photograpy page https://tography.github.io/product/ (All things)
 - [ ] Edit the social share image (the top img: and image: option) as a context pic
@@ -320,13 +321,11 @@ MIT. See LICENSE file in repo.
 - [x] Put disqus into posts
 
 
-# Inspiration photos websites
-
-- https://www.chasejarvis.com/photos/
-
 # About page
 
 ## Linee guida
+
+[about page samples](https://animoto.com/blog/photography/amazing-about-me-page/)
 
 Immagini di me e di me mentre lavoro a pc di me mentre scatto una foto
 in fondo al copy aggiungere la mia firma e dei testimonial sarebbero il massimo (adobe stock, guru shots, eyeem)
