@@ -344,3 +344,55 @@ In un posto isolato come un'isola deserta o in Antartide, impazzirei senza la fo
 Amo divertirmi, far divertire e conoscere nuove persone, ma solo quelle originali, creative ed empatiche, cioè quelle che possano arricchire positivamente le mie conoscenze e la mia vita.
 
 Ero trasparente molto prima che fosse così alla moda, e credo profondamente nel lavoro di squadra, nella comunità e nella collaborazione. Diventiamo amici. Meglio ancora, partiamo per un'avventura insieme! Un'avventura di business, per intenderci...
+
+
+
+
+# Drone page (da www.flightofview.it)
+
+- per edilizia https://sketchfab.com/
+
+
+La comunicazione visiva dispone oggi di una rivoluzionaria possibilità offerta dalle nuove tecnologie. Chiamato in gergo tecnico "Aeromobile a pilotaggio remoto", il drone consente di realizzare contenuti professionali con un alto impatto emotivo e offre inoltre la possibilità di realizzare svariati rilievi tecnici utilizzati in molti ambiti professionali. 
+
+Il Team di "Flight of View" mette a disposizione un'equipe specializzata in possesso di tutte le certificazioni necessarie e una flotta di droni all'avanguardia, in grado di offrire prestazioni di alto livello a costi veramente competitivi. Inoltre, per garantire risultati professionali che soddisfino le aspettative di ogni committente, i piloti saranno affiancati da un team di operatori camera con notevole esperienza nel settore nonchè da fotografi e videomaker con approfondite conoscenze dell'immagine e della post-pruduzione.
+
+"Flight of View" ha sede a Colverde in provincia Como.
+Realizziamo foto e riprese aeree con droni in Italia, soprattutto in Lombardia e sul Lago di Como, ma grazie ad una fitta rete di collegamenti con gli operatori del settore siamo in grado di garantire servizi di ripresa e fotografia aerea con il drone anche nella vicina Svizzera.
+
+Scoprite alcuni esempi del nostro portfolio lavori per capire come i droni possano contribuire al prestigio della vostra immagine e le numerose capacità che possiedono in ambito tecnico.
+
+
+
+Il drone rappresenta uno strumento unico e insostituibile nel suo genere, offrendo la possibilità di operazioni specializzate che fino a poco tempo fa richiedevano grossi investimenti di danaro per avvalersi di velivoli tradizionali, ed erano quindi una prerogativa di poche Aziende capaci di sostenere elevati costi tecnici o pubblicitari.
+
+Dalla ripresa per spot video destinati alla TV e a internet alla fotografia per la promozione immobiliare, dalla fotogrammetria ortogonale nei cantieri edili o nelle aree urbane all'ispezione agricola di terreni e coltivazioni, oggi i servizi tecnici e pubblicitari con l'impiego di droni a pilotaggio remoto rappresentano un passaggio obbligato per ogni business aziendale che si rispetti.
+
+Segue un elenco settoriale con alcuni dei servizi più comuni che si possono realizzare con l'impiego di un drone.
+
+EDILIZIA
+Monitoraggi, sopralluoghi e documentazione fotografica di cantieri, ristrutturazioni, terreni edificabili.
+
+IMMOBILIARE
+Realizzazione di foto e video per la promozione di qualsiasi edificio o per la realizzazione di rendering 3D.
+
+ASSICURAZIONI
+Documentazione di foto e video per perizie, sinistri o verifiche in luoghi pericolosi e difficilmente accessibili dall'uomo.
+
+GIORNALISMO
+Reportage fotografici e riprese aeree destinate ai mass media.
+
+ARCHITETTURA
+Fotogrammetria con georeferenziazione delle immagini, ortomosaici, nuvole di punti, rilievi 3D di complessi residenziali, idustriali, aree urbane o singoli edifici.
+
+COMUNI E UFFICI TECNICI
+Rilievi, fotogrammetria, ortomosaici, rilevamento amianto sui tetti, analisi fotografiche e video di: aree urbane, costruzioni, edifici, monumenti, abusi edilizi, terreni agricoli, cantieri, viabilità ecc.
+
+ARCHEOLOGIA e GEOLOGIA
+Rilievi, documentazione fotografica, fotogrammetria per ricostruzioni 3D, ortomosaici di reperti archeologici, monitoraggi geologici, calamità naturali.
+
+TURISMO
+Ripresa e fotografia per la promozione turistica.
+
+AGENZIE PUBBLICITARIE
+Ripresa e fotografia pubblicitaria con eventuale montaggio e post-produzione.
