@@ -1,3 +1,151 @@
+# Useful links
+
+[Ampstart themes](https://ampstart.com/templates) the theme used
+
+[Basscss css framework](http://basscss.com/) used into DopIt
+
+[Usefull resource for Basscss](https://codepen.io/jxnblk/post/12-css-layout-solutions-using-basscsss-flex-object)
+
+[Basic themes in Basscss](http://basscss.com/themes/)
+
+[AMP blog](http://ampexamples.com/)
+
+[Official Docs](https://www.ampproject.org)
+
+[AMP Examples](https://ampbyexample.com/)
+
+[Test AMP pages](https://search.google.com/test/amp)
+
+[compatible css frameworks](https://softwarerecs.stackexchange.com/questions/46199/which-css-framework-is-compatible-with-amp)
+
+[AMP webdite builed](https://mobirise.com/amp-website-builder/)
+
+
+## Photography resources/guides
+
+### From Nikon
+- [Glamour course](https://www.nikonschool.it/corso-foto-glamour/index.php)
+- [Wedding](https://www.nikonschool.it/fotogiornalismo-reportage-matrimonio/fotografia-matrimonio.php)
+- [Creative life lessons](https://www.creativelive.com/)
+- [Creative life creator](https://www.chasejarvis.com/photos/)
+
+## Tools connected
+
+- [For releases legal stuffs - signrequest](https://signrequest.com )
+- [Google form of contact page](https://docs.google.com/forms/d/1VHq7MxL-_nJPuzI5FJqDGfobv4clJgqtf60N_2hFnFw/edit)
+
+--------------------------------------------------------
+
+## To do
+
+- [x] Drone photograpy page https://tography.github.io/drone/ (the copy the texts)
+- [x] Portrait photography page copy the text https://tography.github.io/portrait/ (waiting for Alla pictures to complete pics)
+- [ ] Add all photos to Urban photography
+- [ ] Edit flavicon
+- [ ] Product photograpy page https://tography.github.io/product/ (All things)
+- [ ] Edit the social share image (the top img: and image: option) as a context pic
+- [ ] Try to implement logo into menu 
+- [ ] Copy and merge AMP scripts into /assets/js folder and merge that all (create 2/3 file in base of the dffrent headers of the pages layout to support AMPyoutube and AMPinstagram)
+- [ ]
+- [ ] Start work in the blog posts part to integrate a good layout
+
+### Olds todo from dopit.github.io
+
+- [ ] Continue edit css typography single post layout with two columns 
+- [ ] Integrate mailchimp
+- [ ] Make a sign up form nacked for mailchimp
+- [ ] Integrate addthis
+- [ ] Integrate hellobar (eventually)
+- [ ] Work with the menu
+- [ ] Continue edit /includes/blocks/sharing.html by pass params like `{% include blocks/test.html subtitle=page.subtitle `
+- [ ] Integrate a modal script (maybe a timer modal or something)
+- [x] Edit condition into /_includes/JB/heading.html
+- [x] Continue Perfectionate the /_includes/blocks/ahead.html
+- [x] Create the 3 column layout validated in amp for the /blog.html layout
+- [x] Continue the single post layout with two columns 
+- [x] Put disqus into posts
+
+
+# About page
+
+## Linee guida
+
+[about page samples](https://animoto.com/blog/photography/amazing-about-me-page/)
+
+Immagini di me e di me mentre lavoro a pc di me mentre scatto una foto
+in fondo al copy aggiungere la mia firma e dei testimonial sarebbero il massimo (adobe stock, guru shots, eyeem)
+
+## Le immagini
+
+- In una foto il mio volto x3 volte, con camicia bianca e cravatta nera: non vedo, espressione stupita (bocca aperta mani davanti gli occhi) - non sento (mani a coprire le orecchie, sorriso e sguardo fisso alla camera) - non parlo (mano alla bocca, sguardo verso l'alto) - settings luce laterale diffusa a 45° meglio con pannello e anche luce dal dietro, higth contrasts, vividezza, clarity e forse luminace
+
+- Immagine altezza title mission: una gif di io sempre camicia creavatta che mimo un mitragliatore che spara da sinistra verso destra
+
+- Immagine grande in fondo: io camicia e cravatta che però faccio il cenno di togliere la cravatta con aria simpatica o schifata, da valutare l'impatto psicologico
+
+## Il copy
+
+Non ho mai fatto un incontro professionale di boxe, ne ho mai partecipato ad un Ironman. Non sono nemmeno stato nello spazio. Ma ho viaggiato per molti posti lontani, creato molte immagini fisse e in movimento per me ed gli altri. Ho scelto, tra gli obiettivi della mia vita, quello di far fluire libera la mia creatività in tutto quello che faccio.
+
+In un posto isolato come un'isola deserta o in Antartide, impazzirei senza la fotografia, il videomaking, senza far volare il mio drone, senza la possibilità di leggere e senza il mio inseparabile amico 'Papi'. Storytelling, innovazione, creatività e voodo visivo - a prescindere dal mezzo di comunicazione, tutto questo, fa battere forte il mio cuore e mi rende entusiasta nel poter fruirne, la mia anima canta di gioia quando si trova in contesti simili. 
+
+Amo divertirmi, far divertire e conoscere nuove persone, ma solo quelle originali, creative ed empatiche, cioè quelle che possano arricchire positivamente le mie conoscenze e la mia vita.
+
+Ero trasparente molto prima che fosse così alla moda, e credo profondamente nel lavoro di squadra, nella comunità e nella collaborazione. Diventiamo amici. Meglio ancora, partiamo per un'avventura insieme! Un'avventura di business, per intenderci...
+
+
+
+
+# Drone page (da www.flightofview.it)
+
+- per edilizia https://sketchfab.com/
+
+
+La comunicazione visiva dispone oggi di una rivoluzionaria possibilità offerta dalle nuove tecnologie. Chiamato in gergo tecnico "Aeromobile a pilotaggio remoto", il drone consente di realizzare contenuti professionali con un alto impatto emotivo e offre inoltre la possibilità di realizzare svariati rilievi tecnici utilizzati in molti ambiti professionali. 
+
+Il Team di "Flight of View" mette a disposizione un'equipe specializzata in possesso di tutte le certificazioni necessarie e una flotta di droni all'avanguardia, in grado di offrire prestazioni di alto livello a costi veramente competitivi. Inoltre, per garantire risultati professionali che soddisfino le aspettative di ogni committente, i piloti saranno affiancati da un team di operatori camera con notevole esperienza nel settore nonchè da fotografi e videomaker con approfondite conoscenze dell'immagine e della post-pruduzione.
+
+"Flight of View" ha sede a Colverde in provincia Como.
+Realizziamo foto e riprese aeree con droni in Italia, soprattutto in Lombardia e sul Lago di Como, ma grazie ad una fitta rete di collegamenti con gli operatori del settore siamo in grado di garantire servizi di ripresa e fotografia aerea con il drone anche nella vicina Svizzera.
+
+Scoprite alcuni esempi del nostro portfolio lavori per capire come i droni possano contribuire al prestigio della vostra immagine e le numerose capacità che possiedono in ambito tecnico.
+
+
+
+Il drone rappresenta uno strumento unico e insostituibile nel suo genere, offrendo la possibilità di operazioni specializzate che fino a poco tempo fa richiedevano grossi investimenti di danaro per avvalersi di velivoli tradizionali, ed erano quindi una prerogativa di poche Aziende capaci di sostenere elevati costi tecnici o pubblicitari.
+
+Dalla ripresa per spot video destinati alla TV e a internet alla fotografia per la promozione immobiliare, dalla fotogrammetria ortogonale nei cantieri edili o nelle aree urbane all'ispezione agricola di terreni e coltivazioni, oggi i servizi tecnici e pubblicitari con l'impiego di droni a pilotaggio remoto rappresentano un passaggio obbligato per ogni business aziendale che si rispetti.
+
+Segue un elenco settoriale con alcuni dei servizi più comuni che si possono realizzare con l'impiego di un drone.
+
+EDILIZIA
+Monitoraggi, sopralluoghi e documentazione fotografica di cantieri, ristrutturazioni, terreni edificabili.
+
+IMMOBILIARE
+Realizzazione di foto e video per la promozione di qualsiasi edificio o per la realizzazione di rendering 3D.
+
+ASSICURAZIONI
+Documentazione di foto e video per perizie, sinistri o verifiche in luoghi pericolosi e difficilmente accessibili dall'uomo.
+
+GIORNALISMO
+Reportage fotografici e riprese aeree destinate ai mass media.
+
+ARCHITETTURA
+Fotogrammetria con georeferenziazione delle immagini, ortomosaici, nuvole di punti, rilievi 3D di complessi residenziali, idustriali, aree urbane o singoli edifici.
+
+COMUNI E UFFICI TECNICI
+Rilievi, fotogrammetria, ortomosaici, rilevamento amianto sui tetti, analisi fotografiche e video di: aree urbane, costruzioni, edifici, monumenti, abusi edilizi, terreni agricoli, cantieri, viabilità ecc.
+
+ARCHEOLOGIA e GEOLOGIA
+Rilievi, documentazione fotografica, fotogrammetria per ricostruzioni 3D, ortomosaici di reperti archeologici, monitoraggi geologici, calamità naturali.
+
+TURISMO
+Ripresa e fotografia per la promozione turistica.
+
+AGENZIE PUBBLICITARIE
+Ripresa e fotografia pubblicitaria con eventuale montaggio e post-produzione.
+
+
 # Tography for Jekyll
 
 *A Jekyll html theme in the vague style of Medium.com built using Google AMP*
@@ -259,150 +407,3 @@ of the css and html from that theme as a starting point. Thanks!
 ## License
 
 MIT. See LICENSE file in repo.
-
-# Useful links
-
-[Ampstart themes](https://ampstart.com/templates) the theme used
-
-[Basscss css framework](http://basscss.com/) used into DopIt
-
-[Usefull resource for Basscss](https://codepen.io/jxnblk/post/12-css-layout-solutions-using-basscsss-flex-object)
-
-[Basic themes in Basscss](http://basscss.com/themes/)
-
-[AMP blog](http://ampexamples.com/)
-
-[Official Docs](https://www.ampproject.org)
-
-[AMP Examples](https://ampbyexample.com/)
-
-[Test AMP pages](https://search.google.com/test/amp)
-
-[compatible css frameworks](https://softwarerecs.stackexchange.com/questions/46199/which-css-framework-is-compatible-with-amp)
-
-[AMP webdite builed](https://mobirise.com/amp-website-builder/)
-
-
-## Photography resources/guides
-
-### From Nikon
-- [Glamour course](https://www.nikonschool.it/corso-foto-glamour/index.php)
-- [Wedding](https://www.nikonschool.it/fotogiornalismo-reportage-matrimonio/fotografia-matrimonio.php)
-- [Creative life lessons](https://www.creativelive.com/)
-- [Creative life creator](https://www.chasejarvis.com/photos/)
-
-## Tools connected
-
-- [For releases legal stuffs - signrequest](https://signrequest.com )
-- [Google form of contact page](https://docs.google.com/forms/d/1VHq7MxL-_nJPuzI5FJqDGfobv4clJgqtf60N_2hFnFw/edit)
-
---------------------------------------------------------
-
-## To do
-
-- [x] Drone photograpy page https://tography.github.io/drone/ (the copy the texts)
-- [x] Portrait photography page copy the text https://tography.github.io/portrait/ (waiting for Alla pictures to complete pics)
-- [ ] Add all photos to Urban photography
-- [ ] Edit flavicon
-- [ ] Product photograpy page https://tography.github.io/product/ (All things)
-- [ ] Edit the social share image (the top img: and image: option) as a context pic
-- [ ] Try to implement logo into menu 
-- [ ] Copy and merge AMP scripts into /assets/js folder and merge that all (create 2/3 file in base of the dffrent headers of the pages layout to support AMPyoutube and AMPinstagram)
-- [ ]
-- [ ] Start work in the blog posts part to integrate a good layout
-
-### Olds todo from dopit.github.io
-
-- [ ] Continue edit css typography single post layout with two columns 
-- [ ] Integrate mailchimp
-- [ ] Make a sign up form nacked for mailchimp
-- [ ] Integrate addthis
-- [ ] Integrate hellobar (eventually)
-- [ ] Work with the menu
-- [ ] Continue edit /includes/blocks/sharing.html by pass params like `{% include blocks/test.html subtitle=page.subtitle `
-- [ ] Integrate a modal script (maybe a timer modal or something)
-- [x] Edit condition into /_includes/JB/heading.html
-- [x] Continue Perfectionate the /_includes/blocks/ahead.html
-- [x] Create the 3 column layout validated in amp for the /blog.html layout
-- [x] Continue the single post layout with two columns 
-- [x] Put disqus into posts
-
-
-# About page
-
-## Linee guida
-
-[about page samples](https://animoto.com/blog/photography/amazing-about-me-page/)
-
-Immagini di me e di me mentre lavoro a pc di me mentre scatto una foto
-in fondo al copy aggiungere la mia firma e dei testimonial sarebbero il massimo (adobe stock, guru shots, eyeem)
-
-## Le immagini
-
-- In una foto il mio volto x3 volte, con camicia bianca e cravatta nera: non vedo, espressione stupita (bocca aperta mani davanti gli occhi) - non sento (mani a coprire le orecchie, sorriso e sguardo fisso alla camera) - non parlo (mano alla bocca, sguardo verso l'alto) - settings luce laterale diffusa a 45° meglio con pannello e anche luce dal dietro, higth contrasts, vividezza, clarity e forse luminace
-
-- Immagine altezza title mission: una gif di io sempre camicia creavatta che mimo un mitragliatore che spara da sinistra verso destra
-
-- Immagine grande in fondo: io camicia e cravatta che però faccio il cenno di togliere la cravatta con aria simpatica o schifata, da valutare l'impatto psicologico
-
-## Il copy
-
-Non ho mai fatto un incontro professionale di boxe, ne ho mai partecipato ad un Ironman. Non sono nemmeno stato nello spazio. Ma ho viaggiato per molti posti lontani, creato molte immagini fisse e in movimento per me ed gli altri. Ho scelto, tra gli obiettivi della mia vita, quello di far fluire libera la mia creatività in tutto quello che faccio.
-
-In un posto isolato come un'isola deserta o in Antartide, impazzirei senza la fotografia, il videomaking, senza far volare il mio drone, senza la possibilità di leggere e senza il mio inseparabile amico 'Papi'. Storytelling, innovazione, creatività e voodo visivo - a prescindere dal mezzo di comunicazione, tutto questo, fa battere forte il mio cuore e mi rende entusiasta nel poter fruirne, la mia anima canta di gioia quando si trova in contesti simili. 
-
-Amo divertirmi, far divertire e conoscere nuove persone, ma solo quelle originali, creative ed empatiche, cioè quelle che possano arricchire positivamente le mie conoscenze e la mia vita.
-
-Ero trasparente molto prima che fosse così alla moda, e credo profondamente nel lavoro di squadra, nella comunità e nella collaborazione. Diventiamo amici. Meglio ancora, partiamo per un'avventura insieme! Un'avventura di business, per intenderci...
-
-
-
-
-# Drone page (da www.flightofview.it)
-
-- per edilizia https://sketchfab.com/
-
-
-La comunicazione visiva dispone oggi di una rivoluzionaria possibilità offerta dalle nuove tecnologie. Chiamato in gergo tecnico "Aeromobile a pilotaggio remoto", il drone consente di realizzare contenuti professionali con un alto impatto emotivo e offre inoltre la possibilità di realizzare svariati rilievi tecnici utilizzati in molti ambiti professionali. 
-
-Il Team di "Flight of View" mette a disposizione un'equipe specializzata in possesso di tutte le certificazioni necessarie e una flotta di droni all'avanguardia, in grado di offrire prestazioni di alto livello a costi veramente competitivi. Inoltre, per garantire risultati professionali che soddisfino le aspettative di ogni committente, i piloti saranno affiancati da un team di operatori camera con notevole esperienza nel settore nonchè da fotografi e videomaker con approfondite conoscenze dell'immagine e della post-pruduzione.
-
-"Flight of View" ha sede a Colverde in provincia Como.
-Realizziamo foto e riprese aeree con droni in Italia, soprattutto in Lombardia e sul Lago di Como, ma grazie ad una fitta rete di collegamenti con gli operatori del settore siamo in grado di garantire servizi di ripresa e fotografia aerea con il drone anche nella vicina Svizzera.
-
-Scoprite alcuni esempi del nostro portfolio lavori per capire come i droni possano contribuire al prestigio della vostra immagine e le numerose capacità che possiedono in ambito tecnico.
-
-
-
-Il drone rappresenta uno strumento unico e insostituibile nel suo genere, offrendo la possibilità di operazioni specializzate che fino a poco tempo fa richiedevano grossi investimenti di danaro per avvalersi di velivoli tradizionali, ed erano quindi una prerogativa di poche Aziende capaci di sostenere elevati costi tecnici o pubblicitari.
-
-Dalla ripresa per spot video destinati alla TV e a internet alla fotografia per la promozione immobiliare, dalla fotogrammetria ortogonale nei cantieri edili o nelle aree urbane all'ispezione agricola di terreni e coltivazioni, oggi i servizi tecnici e pubblicitari con l'impiego di droni a pilotaggio remoto rappresentano un passaggio obbligato per ogni business aziendale che si rispetti.
-
-Segue un elenco settoriale con alcuni dei servizi più comuni che si possono realizzare con l'impiego di un drone.
-
-EDILIZIA
-Monitoraggi, sopralluoghi e documentazione fotografica di cantieri, ristrutturazioni, terreni edificabili.
-
-IMMOBILIARE
-Realizzazione di foto e video per la promozione di qualsiasi edificio o per la realizzazione di rendering 3D.
-
-ASSICURAZIONI
-Documentazione di foto e video per perizie, sinistri o verifiche in luoghi pericolosi e difficilmente accessibili dall'uomo.
-
-GIORNALISMO
-Reportage fotografici e riprese aeree destinate ai mass media.
-
-ARCHITETTURA
-Fotogrammetria con georeferenziazione delle immagini, ortomosaici, nuvole di punti, rilievi 3D di complessi residenziali, idustriali, aree urbane o singoli edifici.
-
-COMUNI E UFFICI TECNICI
-Rilievi, fotogrammetria, ortomosaici, rilevamento amianto sui tetti, analisi fotografiche e video di: aree urbane, costruzioni, edifici, monumenti, abusi edilizi, terreni agricoli, cantieri, viabilità ecc.
-
-ARCHEOLOGIA e GEOLOGIA
-Rilievi, documentazione fotografica, fotogrammetria per ricostruzioni 3D, ortomosaici di reperti archeologici, monitoraggi geologici, calamità naturali.
-
-TURISMO
-Ripresa e fotografia per la promozione turistica.
-
-AGENZIE PUBBLICITARIE
-Ripresa e fotografia pubblicitaria con eventuale montaggio e post-produzione.
