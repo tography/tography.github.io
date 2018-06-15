@@ -291,6 +291,11 @@ MIT. See LICENSE file in repo.
 - [Creative life lessons](https://www.creativelive.com/)
 - [Creative life creator](https://www.chasejarvis.com/photos/)
 
+## Tools connected
+
+- [For releases legal stuffs - signrequest](https://signrequest.com )
+- [Google form of contact page](https://docs.google.com/forms/d/1VHq7MxL-_nJPuzI5FJqDGfobv4clJgqtf60N_2hFnFw/edit)
+
 --------------------------------------------------------
 
 ## To do
