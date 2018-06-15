@@ -1,3 +1,23 @@
+# Book to read
+
+[1° list](https://www.raffaelegaito.com/migliori-libri-di-marketing/)
+[where download](https://www.outofbit.it/migliori-siti-download-ebook/)
+[Where I find most](http://en.booksee.org/s/?q=David+Weinberger&t=0)
+
+## Quora answe about psicology and neuropsicology associated to marketing
+
+Comincerei sicuramente da quelli di Robert Cialdini. E’ il più famoso e il più “ centrato “ sull’argomento.
+
+Non mi fermerei però qui… tutta la scuola di Paolo Alto ( da Watzlavick a Chomsky , etc. etc. ) può dare spunti stimolanti.
+
+Tutte le pubblicazioni neuroscientifiche serie ( lo trovi tranquillamente online su riviste americane universitarie ) sono fonti straordinarie sulle basi neurologiche.
+
+Entra poi nel filone psicologico, con i libri di Nardone, ad esempio.
+
+E non perderti gli speech di TED.com sull’argomento.
+
+C’è tantissimo, ma non perderti nelle formulette di qualche improvvisato, vai alla radice…..e se ti avanza del tempo vieni a trovarmi su Corsi online gratuiti ( piccole pillole totalmente gratuite che possono farti venire una idea )
+
 # Useful links
 
 [Ampstart themes](https://ampstart.com/templates) the theme used
