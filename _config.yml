@@ -45,8 +45,8 @@ author :
 
 # MY GOOGLE MAPS FOOTER LOCATION IN ALL PAGES
 location:
-  latitude: 45.817374
-  longitude: 8.826044
+  latitude: 42.4545184
+  longitude: 14.1388164
 
 # WHEN YOU WANT TO HOST WITH THE COMBINATION OF GOOLE TAG MANAGER, ANALYTICS AND OPTIMIZE 
 # (tracking_id, optimize_id, tagmanager_id ARE REQUIRED FIELDS)
