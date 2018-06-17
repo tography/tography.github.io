@@ -14,13 +14,13 @@ logo: "/assets/images/beme-horiz-logo.png"
 logox2: "/assets/images/beme-horiz-logo@2x.png"
 logox3: "/assets/images/beme-horiz-logo@3x.png"
 logosvg: "/assets/images/beme-horiz-logo.svg"
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. blog/ remember to put the / at the end
 url: "https://tography.github.io" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
 name: 'Antonio Trento'
 bio: >
-  An entusiast web geek that love make good marketing strategies, install and mantain web platforms.
+  An entusiast web geek that love make good marketing strategies, create beautifull photos, install and mantain web platforms.
 author_image: "/assets/images/author.jpg"
 twitter_username: lantoniotrento
 github_username:  antoniotrento
