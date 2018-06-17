@@ -61,8 +61,8 @@ C’è tantissimo, ma non perderti nelle formulette di qualche improvvisato, vai
 - [x] Drone photograpy page https://tography.github.io/drone/ (improve images)
 - [x] Portrait photography page copy the text https://tography.github.io/portrait/ (waiting for Alla pictures to complete pics)
 - [ ] Add all photos to Urban photography
-- [ ] Edit flavicon
-- [ ] Product photograpy page https://tography.github.io/product/ (All things)
+- [ ] Edit flavicon (don't work try other ways)
+- [ ] Product photograpy page https://tography.github.io/product/ (All things - for now deprecated)
 - [ ] Edit the social share image (the top img: and image: option) as a context pic
 - [ ] Try to implement logo into menu 
 - [ ] Copy and merge AMP scripts into /assets/js folder and merge that all (create 2/3 file in base of the dffrent headers of the pages layout to support AMPyoutube and AMPinstagram)
