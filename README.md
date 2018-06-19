@@ -99,6 +99,8 @@ in fondo al copy aggiungere la mia firma e dei testimonial sarebbero il massimo 
 
 - In una foto il mio volto x3 volte, con camicia bianca e cravatta nera: non vedo, espressione stupita (bocca aperta mani davanti gli occhi) - non sento (mani a coprire le orecchie, sorriso e sguardo fisso alla camera) - non parlo (mano alla bocca, sguardo verso l'alto) - settings luce laterale diffusa a 45° meglio con pannello e anche luce dal dietro, higth contrasts, vividezza, clarity e forse luminace
 
+- Immagine dall'alto con il drone con una scritta in spiaggia, nella sabbia, del tipo Hello ed io sdraiato al posto di una delle L
+
 - Immagine altezza title mission: una gif di io sempre camicia creavatta che mimo un mitragliatore che spara da sinistra verso destra
 
 - Immagine grande in fondo: io camicia e cravatta che però faccio il cenno di togliere la cravatta con aria simpatica o schifata, da valutare l'impatto psicologico
