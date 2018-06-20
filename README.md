@@ -101,6 +101,8 @@ in fondo al copy aggiungere la mia firma e dei testimonial sarebbero il massimo 
 
 - Immagine dall'alto con il drone con una scritta in spiaggia, nella sabbia, del tipo 'Hello' oppure 'Tography' ed io sdraiato al posto di una delle L
 
+- Immagine di me a petto nudo che esco dalla scatola con scritto CE (il marchio del prodotto legale in europa) con un sacchetto in faccia che guardo il cellulare
+
 - Immagine altezza title mission: una gif di io sempre camicia creavatta che mimo un mitragliatore che spara da sinistra verso destra
 
 - Immagine grande in fondo: io camicia e cravatta che però faccio il cenno di togliere la cravatta con aria simpatica o schifata, da valutare l'impatto psicologico
