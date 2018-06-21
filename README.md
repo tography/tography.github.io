@@ -58,9 +58,8 @@ C’è tantissimo, ma non perderti nelle formulette di qualche improvvisato, vai
 
 ## To do
 
-- [ ] home page mettere nella area per mobile nel bottone 'discorver' questo '➡️Discover⬅️'
 - [x] Drone photograpy page https://tography.github.io/drone/ (improve images)
-- [x] Portrait photography page copy the text https://tography.github.io/portrait/ (waiting for Alla pictures to complete pics)
+- [x] Portrait photography page https://tography.github.io/portrait/ 
 - [ ] Add all photos to Urban photography
 - [ ] Edit flavicon (don't work try other ways)
 - [ ] Product photograpy page https://tography.github.io/product/ (All things - for now deprecated)
