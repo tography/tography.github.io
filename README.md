@@ -55,6 +55,11 @@ C’è tantissimo, ma non perderti nelle formulette di qualche improvvisato, vai
 - [Google form of contact page](https://docs.google.com/forms/d/1VHq7MxL-_nJPuzI5FJqDGfobv4clJgqtf60N_2hFnFw/edit)
 
 --------------------------------------------------------
+## Copy todo
+
+- [ ] mettere i quote in rima simpatica per favorire la memoria del lettore
+- [ ] semplificare il copy in genere, non usare gergo tecnico, è controproducente
+
 
 ## To do
 
@@ -133,7 +138,6 @@ Il Team di "Flight of View" mette a disposizione un'equipe specializzata in poss
 Realizziamo foto e riprese aeree con droni in Italia, soprattutto in Lombardia e sul Lago di Como, ma grazie ad una fitta rete di collegamenti con gli operatori del settore siamo in grado di garantire servizi di ripresa e fotografia aerea con il drone anche nella vicina Svizzera.
 
 Scoprite alcuni esempi del nostro portfolio lavori per capire come i droni possano contribuire al prestigio della vostra immagine e le numerose capacità che possiedono in ambito tecnico.
-
 
 
 Il drone rappresenta uno strumento unico e insostituibile nel suo genere, offrendo la possibilità di operazioni specializzate che fino a poco tempo fa richiedevano grossi investimenti di danaro per avvalersi di velivoli tradizionali, ed erano quindi una prerogativa di poche Aziende capaci di sostenere elevati costi tecnici o pubblicitari.
@@ -431,3 +435,14 @@ of the css and html from that theme as a starting point. Thanks!
 ## License
 
 MIT. See LICENSE file in repo.
+
+
+
+
+
+
+# Idee call to action
+
+Sei avventuroso? No non credo, ed io cerco solo gente veramente avventurosa.
+
+[Avventurati] --> (call per un questionario)
