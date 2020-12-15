@@ -27,7 +27,7 @@ github_username:  antoniotrento
 # terms of loading if compared with the combination of tag managet/optimize/analitycs downstairs)
 
 # uncomment to use--> 
-# analytics_id: "UA-109407288-1"
+# analytics_id:
 
 author :
   name : Antonio Trento
@@ -49,10 +49,10 @@ location:
 # WHEN YOU WANT TO HOST WITH THE COMBINATION OF GOOLE TAG MANAGER, ANALYTICS AND OPTIMIZE 
 # (tracking_id, optimize_id, tagmanager_id ARE REQUIRED FIELDS)
 google :
-    tracking_id : 'UA-121060011-1' # Id google analitics
-    optimize_id : 'GTM-T28VH29' # I'id di google optimize per A/B Testing
-    tagmanager_id: 'GTM-PLM44W6' # id di google tag manager
-    #ad_client: 'ca-pub-9204963049240271' # id google ADsense (to edit other id's of google ADsense go to /_includes/JB/ads-block-html )
+    tracking_id :  # Id google analitics
+    optimize_id :  # I'id di google optimize per A/B Testing
+    tagmanager_id:  # id di google tag manager
+    #ad_client: '' # id google ADsense (to edit other id's of google ADsense go to /_includes/JB/ads-block-html )
 
 # data for jekyll-seo-tags plugin
 social:
